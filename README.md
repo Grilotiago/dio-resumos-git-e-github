@@ -11,7 +11,7 @@ Repositorio para armazenar resumos GIT E GithUB
 
 | Aulas   | Resumos   |
 | ------------- | ------------- |
-| Gravando no Rep Local    | ())    |
+| Gravando no Rep Local    | ()    |
 | Conteúdo 3    | Conteúdo 4    |
 
 ´´´
