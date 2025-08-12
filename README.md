@@ -7,11 +7,11 @@ Repositorio para armazenar resumos GIT E GithUB
 -[doc git](https://docs.github.com/pt)
 -[doc gitHub](https://docs.github.com/pt)
 
-##  ✌ Resumo das Aulas
+##  ✌ Resumo das Aulas !
 
 | Aulas   | Resumos   |
 | ------------- | ------------- |
-| Gravando no Rep Local    | ()    |
+| Gravando no Rep Local    | ( )    |
 | Conteúdo 3    | Conteúdo 4    |
 
 ´´´
